@@ -1,2 +1,2 @@
 # tutorial
-tutorial sekolahding di youtube
+tutorial sekolahkoding di youtube
